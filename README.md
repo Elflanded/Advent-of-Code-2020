@@ -56,7 +56,7 @@ Solutions for puzzles for AoC!
 
 (Logical)[https://github.com/Logicologiest]
 (Elflanded)[https://github.com/Elflanded]
-(iWillBanU([https://github.com/mattx8y]
+(iWillBanU)[https://github.com/mattx8y]
 # Help 
 
 Join this discord server for any assistance! https://discord.gg/FnnfVk4V
