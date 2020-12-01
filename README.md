@@ -6,6 +6,7 @@ Solutions for puzzles for AoC!
   Fork this repository and open a IDE of your choice!
 
   IDEs I recommend!
+  
    • Atom
     
    • JetBrains
@@ -22,6 +23,7 @@ Solutions for puzzles for AoC!
  # Day 1 (2020)  
   
   **Availiable languages for Day 1**
+   
    • Python
      
    • Node.JS
@@ -40,3 +42,12 @@ Solutions for puzzles for AoC!
    
    `python python/day1/puzzle.py`
 
+
+# Day 2
+
+*Not released yet*
+
+
+# Help 
+
+Join this discord server for any assistance! https://discord.gg/FnnfVk4V
