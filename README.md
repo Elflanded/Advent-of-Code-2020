@@ -42,7 +42,10 @@ Solutions for puzzles for AoC!
    
    `python python/day1/puzzle.py`
 
-
+   • Java
+   
+   `Just use an IDE lol`
+   
 # Day 2
 
 *Not released yet*
