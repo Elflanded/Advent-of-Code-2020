@@ -27,6 +27,8 @@ Solutions for puzzles for AoC!
    • Python
      
    • Node.JS
+   
+   • Java
      
   
   All you need to do for this puzzle, is open the `input` file, and replace the inputs with yours!
