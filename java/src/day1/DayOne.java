@@ -20,7 +20,7 @@ public class DayOne {
         }
         Collections.sort(input);
         firstPart(input);
-//        secondPart(input);
+        secondPart(input);
     }
 
     public static void firstPart(List<Integer> input) {
