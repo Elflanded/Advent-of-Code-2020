@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 public class DayOne {
 
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("src/me/logicologist/adventofcode2020/day1/DayOne.txt");
+        File file = new File("java/src/day1/DayOne.txt");
         Scanner scanner = new Scanner(file);
         List<Integer> input = new ArrayList<>();
         while (scanner.hasNextLine()) {
@@ -20,7 +20,7 @@ public class DayOne {
         }
         Collections.sort(input);
         firstPart(input);
-        secondPart(input);
+//        secondPart(input);
     }
 
     public static void firstPart(List<Integer> input) {
