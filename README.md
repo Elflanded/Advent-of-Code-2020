@@ -50,7 +50,7 @@ Solutions for puzzles for AoC!
    
 # Day 2
 
-*Not released yet*
+the same as day 1
 
 # Contributions
 
