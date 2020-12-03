@@ -26,7 +26,7 @@ public class DayThree {
         System.out.println(i * i2 * i3 * i4 * i5);
     }
 
-    public static int getTreesX(int slopeX, int slopeY, List<String> inputs) {
+    public static long getTreesX(int slopeX, int slopeY, List<String> inputs) {
         int y = slopeY - 1;
         int x = -slopeX;
         int trees = 0;
