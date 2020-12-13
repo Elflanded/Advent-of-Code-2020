@@ -44,24 +44,24 @@ public class DayThirteen {
     public static void partTwo(List<String> inputs) {
         List<String> inputList = Arrays.asList(inputs.get(1).split(","));
 
-        long t = 100000000000000L;
-        int i = 0;
-        long s = 1;
+        long time = 100000000000000L;
+        int index = 0;
+        long add = 1;
 
-        while (i < inputList.size()) {
-            if (inputList.get(i).equals("x")) {
-                i++;
+        while (index < inputList.size()) {
+            if (inputList.get(index).equals("x")) {
+                index++;
                 continue;
             }
-            int value = Integer.parseInt(inputList.get(i));
-            if ((t + i) % value == 0) {
-                s *= value;
-                i++;
+            int value = Integer.parseInt(inputList.get(index));
+            if ((time + index) % value == 0) {
+                add *= value;
+                index++;
                 continue;
             }
-            t += s;
+            time += add;
         }
 
-        System.out.println(t);
+        System.out.println(time);
     }
 }
